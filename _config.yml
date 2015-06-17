@@ -18,18 +18,16 @@ footer:
   copyright: Gabe Weintraub
   location:
   social: Around the Web
-  credits: Credits
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/gabeweintraub
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
+  - title: instagram
+    url: https://instagram.com/gabeweintraub/
+  - title: linkedin
+    url: https://www.linkedin.com/in/gabeweintraub
   - title: github
     url: http://github.com/gweintraub
 
@@ -37,7 +35,7 @@ social:
 
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: #'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
